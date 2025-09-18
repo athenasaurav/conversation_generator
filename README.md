@@ -68,8 +68,8 @@ Clone the repository and install the required packages:
 
 ```bash
 # Clone the repository (example)
-git clone https://github.com/your-repo/debt-collection-generator.git
-cd debt-collection-generator
+git clone https://github.com/your-repo/conversation_generator.git
+cd conversation_generator
 
 # Install dependencies
 pip install -r requirements.txt
